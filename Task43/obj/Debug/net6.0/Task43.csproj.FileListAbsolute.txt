@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/bin/Debug/net6.0/Task43
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/bin/Debug/net6.0/Task43.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/bin/Debug/net6.0/Task43.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/bin/Debug/net6.0/Task43.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/bin/Debug/net6.0/Task43.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/refint/Task43.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/Task43.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar6/Task43/obj/Debug/net6.0/ref/Task43.dll
