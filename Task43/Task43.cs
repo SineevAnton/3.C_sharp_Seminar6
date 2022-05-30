@@ -13,6 +13,14 @@ float k2 = float.Parse(Console.ReadLine());
 Console.Write("Enter the b2 coefficient: ");
 float b2 = float.Parse(Console.ReadLine());
 
+
+// Method to find coordinates of intersection point of two lines
+// y = k1 * x + b1
+// y = k2 * x + b2
+// so
+// k1 * x + b1 = k2 * x + b2 ->
+// k1 * x - k2 * x = b2 - b1 ->
+// x = (b2 - b1) / (k1 - k2)
 void DefineIntersectionPoint(float k1, float b1, float k2, float b2)
 {
     double XCoord = (b2 - b1) / (k1 - k2);
